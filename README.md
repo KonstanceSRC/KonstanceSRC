@@ -7,7 +7,8 @@
 
  
 
-  <img align="right" alt="GIF" src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://github.com/KonstanceSRC/KonstanceSRC/blob/main/c2af39ac55dfb2ea83153fbe894f45f2-removebg-preview.png?raw=true)" />
+<img align="right" alt="GIF" src="https://github.com/KonstanceSRC/KonstanceSRC/blob/main/c2af39ac55dfb2ea83153fbe894f45f2-removebg-preview.png?raw=true" />
+
 
 **About Me!**
 
