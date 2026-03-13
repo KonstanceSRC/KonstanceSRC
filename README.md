@@ -1,37 +1,63 @@
-<h2 title="hehehe"> Hey 👋, I'm Konstance/Fivejoints!</h2>
+<div align="center">
 
+```
+██████╗ ██╗   ██╗██████╗ ███████╗
+██╔══██╗██║   ██║██╔══██╗██╔════╝
+██████╔╝██║   ██║██████╔╝███████╗
+██╔═══╝ ██║   ██║██╔═══╝ ╚════██║
+██║     ╚██████╔╝██║     ███████║
+╚═╝      ╚═════╝ ╚═╝     ╚══════╝
+```
 
-<br />
-<br />
+*also known as **konstance** & **FJ** ♡*
 
+</div>
 
- 
+---
 
-<img align="right" alt="GIF" src="https://github.com/KonstanceSRC/KonstanceSRC/blob/main/c2af39ac55dfb2ea83153fbe894f45f2-removebg-preview.png?raw=true" />
+<div align="center">
 
+### ˚₊· ͟͟͞͞➳❥ about me
 
-**About Me!**
+```
+  ╭──────────────────────────────────────╮
+  │  i code random shit from time        │
+  │  to time and store it here  ♡        │
+  ╰──────────────────────────────────────╯
+```
 
-- 👨🏽‍💻 I’m currently a IT at OuterOrbit! I work on main projects and our security!
-- 🌱 I’m currently exploring the world of coding knowledge!
-- 💬 Ask me about anything, I love to answer!
-- 📫 Contact Me On Discord! [fivejoints](discord:fivejoints).
+</div>
 
+---
 
+<div align="center">
 
-**Languages and Tools:**  
+### ˚₊· ͟͟͞͞➳❥ services
 
+```
+  ┌─────────────────────────────────────┐
+  │  ✦  paid commissions                │
+  │  ✦  hosting                         │
+  │                                     │
+  │  don't be shy, contact me if        │
+  │  you need anything at all! (˶ᵔᵕᵔ˶)  │
+  └─────────────────────────────────────┘
+```
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
+</div>
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
+---
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KonstanceSRC&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KonstanceSRC&count_private=true&theme=radical" alt="SanskarJaiswal" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstanceSRC&count_private=true&theme=radical" alt="SanskarJaiswal" />
+```
+  ˚✧₊⁎  thanks for stopping by  ⁎₊✧˚
+     (\(\
+     ( -.-)  zzz
+     o_(")(")
+```
 
------
+![](https://img.shields.io/badge/-available%20for%20work-ff9ec4?style=flat-square&labelColor=ffcfe3)
+![](https://img.shields.io/badge/-commissions%20open-ffb3d1?style=flat-square&labelColor=ffcfe3)
+
+</div>
